@@ -13,7 +13,7 @@ In this project, the user's movement or webcam input could be stretched into rib
 - **Effect:** User actions become delayed, stretched, and fragmented into visual ribbons.
 - **Experience:** The result is an interactive visual language that feels like bending motion through time.
 
-## Why This Works for the Assignment
+## for the Assignment
 
 - It emphasizes **time-based behaviour** rather than static form.
 - It creates a **unique interaction mechanic** that is both experimental and expressive.
@@ -21,8 +21,5 @@ In this project, the user's movement or webcam input could be stretched into rib
 
 ## Visual Reference
 
-![Spiral staircase - time displacement inspiration](./images/spiral-staircase.jpg)
-
-*The spiral perspective creates a temporal compression effect, inspiring the slit-scan layering concept for this project.*
-
+![Spiral staircase - time displacement inspiration](./images/Screenshot%202026-05-05%20at%2022.52.40.png)
 
