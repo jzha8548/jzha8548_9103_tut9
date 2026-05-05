@@ -32,7 +32,7 @@ In this project, the user's movement or webcam input could be stretched into rib
 
 ### Coding Technique: Frame-History Slit-Scan using `createCapture()` and `copy()`
 
-![Slit-scan coding technique screenshot](./images/Screenshot%202026-05-05%20at%2022.53.09.png)
+![Slit-scan coding technique screenshot](./images/Screenshot%202026-05-06%20at%2000.08.25.png)
 
 *Figure 3. Screenshot of The Coding Train's **Slit-Scan Video** p5.js example, showing a live video image being rebuilt through copied vertical slices.*
 
